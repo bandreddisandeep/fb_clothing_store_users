@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501966126745",
+    "firebase_url": "https://jarvis-a0777.firebaseio.com",
+    "project_id": "jarvis-a0777",
+    "storage_bucket": "jarvis-a0777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501966126745:android:766f41aa3f0d8a76ccc208",
+        "android_client_info": {
+          "package_name": "com.bandreddi.storeUsersSample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501966126745-cpc2kc5g7ev8adppcfaeg9nml9e2r3no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChVqbkr_YV2xKCkH9yfZbgnT6ZXYVTeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501966126745-cpc2kc5g7ev8adppcfaeg9nml9e2r3no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
